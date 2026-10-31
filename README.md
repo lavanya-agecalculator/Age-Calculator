@@ -36,6 +36,6 @@ It calculates a person's age in Years, Months and Days based on the Date of Birt
 Displays age in Years, Months and Days.
 
 ## Developed By
-Student Name: Your Name
+Student Name: Miss.Lavanya
 Project: C Programming Mini Project
 Academic Year: 2026-2027
